@@ -1,7 +1,5 @@
 /*
 Name: Jabari Brown
-Course: CSC435-01 Programming Languages
-Assignment 2
 Purpose: Find and display all the links within the fetched URL
 */
 
